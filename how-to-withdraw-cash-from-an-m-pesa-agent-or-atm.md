@@ -57,7 +57,33 @@ Agent fees can climb to about KSh 309 for the largest amounts, and every fee inc
 * **Wrong agent number.** Cancel and try again, and double-check the number with the agent before you send. Withdrawals can't normally be reversed once you have the cash.
 * **ATM code entered wrongly.** After three wrong attempts the ATM cancels the transaction, so you'll need to request a new code.
 * **The code expired.** Generate a new one from the Withdraw Cash menu.
-* **You can't deposit into someone else's account at an agent.** Agents only deposit into your own account. To give someone money, use Send Money.
+*   **You can't deposit into someone else's account at an agent.** Agents only deposit into your own account. To give someone money, use Send Money.\
+    \
+    How much does it cost?
+
+    Withdrawal fees depend on the amount. Fees include 20% excise duty.
+
+    #### ATM withdrawal fees
+
+    | Amount (KSh)     | Fee (KSh) |
+    | ---------------- | --------- |
+    | 200 to 2,500     | 35        |
+    | 2,501 to 5,000   | 69        |
+    | 5,001 to 10,000  | 115       |
+    | 10,001 to 35,000 | 203       |
+
+    #### Agent withdrawal fees (smaller amounts)
+
+    | Amount (KSh)   | Fee (KSh) |
+    | -------------- | --------- |
+    | 501 to 1,000   | 29        |
+    | 1,001 to 1,500 | 29        |
+    | 1,501 to 2,500 | 29        |
+    | 2,501 to 3,500 | 52        |
+
+    For larger agent withdrawals, check Safaricom's current tariff on its M-Pesa charges page. Always confirm the exact fee on your screen before you enter your PIN.
+
+    _Fees last checked on 28 October 2026._
 
 ### Stay safe <a href="#stay-safe" id="stay-safe"></a>
 
